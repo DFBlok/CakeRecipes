@@ -1,0 +1,21 @@
+body{
+  width: 100;  
+}
+
+nav{
+    
+    text-decoration: none;
+}
+
+.img-placeholder{
+    background-color: #c7c7c7;
+    position: relative;
+    width: 500px;
+    /* padding-bottom: 0%; */
+    cursor: zoom-in;
+}
+
+.CakeIngredient li{
+    padding-left: 5%;
+}
+
